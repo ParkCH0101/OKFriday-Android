@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-217,
+				-253
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Gf_Down00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-213,
+				-228
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gf_Idle00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-154,
+				-239
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Gf_Left00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-233,
+				-240
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Gf_Right00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-230
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Gf_Up00",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-218,
+				-230
+			],
+			"anim": "up",
+			"fps": 24,
+			"name": "Gf_Up00",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-213,
+				-228
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "4",
+			"loop": false,
+			"name": "Gf_Idle00"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GIRLFRIEND",
+	"position": [
+		-620,
+		10
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		220,
+		290
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
