@@ -1,0 +1,259 @@
+{
+	"song": {
+		"speed": 2.2,
+		"stage": "OKFRIDAY",
+		"player1": "bf",
+		"player2": "bocinas",
+		"player3": null,
+		"events": [
+			[
+				1923.07692307692,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				2051.28205128205,
+				[
+					[
+						"Trigger BG Ghouls",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20256.4102564103,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				46538.4615384616,
+				[
+					[
+						"Trigger BG Ghouls",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				46666.6666666667,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				47051.2820512821,
+				[
+					[
+						"Trigger BG Ghouls",
+						"pico",
+						""
+					]
+				]
+			],
+			[
+				47179.4871794872,
+				[
+					[
+						"Change Character",
+						" 1",
+						"gopico"
+					]
+				]
+			],
+			[
+				79358.9743589744,
+				[
+					[
+						"Trigger BG Ghouls",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				79487.1794871795,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				80000,
+				[
+					[
+						"Trigger BG Ghouls",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				80128.2051282051,
+				[
+					[
+						"Change Character",
+						" 1",
+						"gfno"
+					]
+				]
+			],
+			[
+				80256.4102564103,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-car"
+					]
+				]
+			],
+			[
+				112307.692307692,
+				[
+					[
+						"Trigger BG Ghouls",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				112692.307692308,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				112820,
+				[
+					[
+						"Change Character",
+						"bf-car",
+						"bf"
+					]
+				]
+			],
+			[
+				112820.512820513,
+				[
+					[
+						"Change Character",
+						" 1",
+						"gf1"
+					]
+				]
+			],
+			[
+				113076.923076923,
+				[
+					[
+						"Trigger BG Ghouls",
+						"gf1",
+						""
+					]
+				]
+			],
+			[
+				138461.538461538,
+				[
+					[
+						"Trigger BG Ghouls",
+						"gf2",
+						""
+					]
+				]
+			],
+			[
+				162435.897435897,
+				[
+					[
+						"Trigger BG Ghouls",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				164743,
+				[
+					[
+						"Trigger BG Ghouls",
+						"gfxbf",
+						""
+					]
+				]
+			],
+			[
+				164743.58974359,
+				[
+					[
+						"Change Character",
+						" 1",
+						"gfu"
+					]
+				]
+			],
+			[
+				180897.435897436,
+				[
+					[
+						"Trigger BG Ghouls",
+						"3",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfno",
+		"bpm": 117,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "OKFriday"
+	}
+}
