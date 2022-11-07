@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfEcenario2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GFface20000" x="0" y="0" width="480" height="270"/>
+	<SubTexture name="GFface20001" x="480" y="0" width="480" height="270"/>
+	<SubTexture name="GFface20002" x="960" y="0" width="480" height="270"/>
+	<SubTexture name="GFface20003" x="1440" y="0" width="480" height="270"/>
+	<SubTexture name="GFface20004" x="0" y="270" width="480" height="270"/>
+	<SubTexture name="GFface20005" x="480" y="270" width="480" height="270"/>
+	<SubTexture name="GFface20006" x="960" y="270" width="480" height="270"/>
+	<SubTexture name="GFface20007" x="1440" y="270" width="480" height="270"/>
+	<SubTexture name="GFface20008" x="0" y="540" width="480" height="270"/>
+	<SubTexture name="GFface20009" x="480" y="540" width="480" height="270"/>
+	<SubTexture name="GFface20010" x="960" y="540" width="480" height="270"/>
+	<SubTexture name="GFface20011" x="1440" y="540" width="480" height="270"/>
+	<SubTexture name="GFface20012" x="0" y="810" width="480" height="270"/>
+	<SubTexture name="GFface20013" x="480" y="810" width="480" height="270"/>
+	<SubTexture name="GFface20014" x="960" y="810" width="480" height="270"/>
+	<SubTexture name="GFface20015" x="1440" y="810" width="480" height="270"/>
+	<SubTexture name="GFface20016" x="0" y="1080" width="480" height="270"/>
+	<SubTexture name="GFface20017" x="480" y="1080" width="480" height="270"/>
+	<SubTexture name="GFface20018" x="960" y="1080" width="480" height="270"/>
+	<SubTexture name="GFface20019" x="1440" y="1080" width="480" height="270"/>
+	<SubTexture name="GFface20020" x="0" y="1350" width="480" height="270"/>
+	<SubTexture name="GFface20021" x="0" y="1350" width="480" height="270"/>
+</TextureAtlas>

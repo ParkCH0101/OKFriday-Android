@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pico.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pico Idle0000" x="0" y="0" width="480" height="270"/>
+	<SubTexture name="pico Idle0001" x="480" y="0" width="480" height="270"/>
+	<SubTexture name="pico Idle0002" x="960" y="0" width="480" height="270"/>
+	<SubTexture name="pico Idle0003" x="1440" y="0" width="480" height="270"/>
+	<SubTexture name="pico Idle0004" x="0" y="270" width="480" height="270"/>
+	<SubTexture name="pico Idle0005" x="480" y="270" width="480" height="270"/>
+	<SubTexture name="pico Idle0006" x="960" y="270" width="480" height="270"/>
+	<SubTexture name="pico Idle0007" x="1440" y="270" width="480" height="270"/>
+	<SubTexture name="pico Idle0008" x="0" y="540" width="480" height="270"/>
+	<SubTexture name="pico Idle0009" x="480" y="540" width="480" height="270"/>
+	<SubTexture name="pico Idle0010" x="960" y="540" width="480" height="270"/>
+</TextureAtlas>
